@@ -4,5 +4,6 @@ O painel é uma ponte que conecta um formulario Web do Wordpress com o Logix(ERP
 
 O painel serve para consultar os dados do cliente e fazer n validações e assim inserir o SAC.
 
+Tela de Login:
 ![login](https://user-images.githubusercontent.com/69809959/137143684-c244215b-5131-405a-9b69-8ea15a434260.PNG)
 OBS: Todos os dados das imagens são ilustrativos e fictícios, gerados apenas para demonstração.
