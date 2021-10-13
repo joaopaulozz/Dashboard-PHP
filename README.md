@@ -9,4 +9,10 @@ Formulario Wordpress:
 
 Tela de Login do Painel PHP:
 ![login](https://user-images.githubusercontent.com/69809959/137143684-c244215b-5131-405a-9b69-8ea15a434260.PNG)
+
+Graficos:
+![graficodepizza](https://user-images.githubusercontent.com/69809959/137181257-76a4a59c-e33a-4fe0-8bc9-d2b5befe4793.PNG)
+
+![dashboard3](https://user-images.githubusercontent.com/69809959/137180952-e3eacd1f-7126-46c0-82b2-00a3839f9a8b.PNG)
+
 OBS: Todos os dados das imagens são ilustrativos e fictícios, gerados apenas para demonstração.
