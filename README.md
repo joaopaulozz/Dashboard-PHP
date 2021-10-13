@@ -1,6 +1,6 @@
 PAINEL SAC
 
-O painel é uma ponte que conecta um formulario Web do Wordpress com o Logix(ERP Interno). O formulario é uma abertura de um SAC, que ao enviar, faz o POST atraves de uma Api Rest(Python - Flask), que salva os dados do usuario no db.
+O painel é uma ponte que conecta um formulario Web do Wordpress com o Logix(ERP Interno). O formulario sera de uso para abertura de um SAC(Serviço de atendimento ao consumidor), que ao enviar, faz o POST atraves de uma Api Rest(Python - Flask), que salva os dados do usuario no db.
 
 O painel serve para consultar os dados do cliente e fazer n validações e assim inserir o SAC.
 
